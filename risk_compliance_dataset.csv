@@ -1,0 +1,201 @@
+Case_ID,Date,Rider_ID,Driver_ID,Trip_Amount,Issue_Type,Risk_Factors,Verification_Completed,Risk_Score,Case_Status,Resolution_Time_Hrs,Agent_Notes
+C5000,2025-10-22,R10000,D2385,480.93,Payment Failure,"multiple_complaints, incomplete_verification",Yes,6,Review,117,Driver contacted
+C5001,2025-09-15,R10001,D2386,320.86,Cancellation Issue,"high_value_trip, no_flag",Yes,2,Safe,77,Verified trip logs
+C5002,2025-11-11,R10002,D2112,1096.75,Cancellation Issue,no_flag,Yes,2,Safe,31,Insufficient evidence
+C5003,2025-10-31,R10003,D2100,104.67,Payment Failure,suspicious_pattern,Yes,5,Review,105,Escalated to TL
+C5004,2025-09-21,R10004,D2112,343.97,Fraud,"suspicious_pattern, high_value_trip",Yes,8,Flagged - Escalate,75,Escalated to TL
+C5005,2025-11-22,R10005,D2439,476.37,Fare Dispute,"no_flag, payment_mismatch",Yes,4,Safe,68,Refund initiated
+C5006,2025-11-26,R10006,D2080,356.52,Fare Dispute,payment_mismatch,Yes,5,Review,98,Driver contacted
+C5007,2025-11-14,R10007,D2186,596.83,Payment Failure,high_value_trip,Yes,2,Safe,102,Pending additional docs
+C5008,2025-11-14,R10008,D2112,476.26,Cancellation Issue,incomplete_verification,Yes,3,Safe,110,Driver contacted
+C5009,2025-11-27,R10009,D2001,301.4,Payment Failure,multiple_complaints,No,6,Review,4,Identity mismatch found
+C5010,2025-09-24,R10010,D2129,557.85,Fare Dispute,"multiple_complaints, suspicious_pattern",Yes,11,Flagged - Escalate,102,Customer provided receipt
+C5011,2025-09-03,R10011,D2219,641.9,Fare Dispute,"no_flag, high_value_trip",Yes,2,Safe,19,Verified trip logs
+C5012,2025-09-22,R10012,D2053,235.6,Fare Dispute,"incomplete_verification, payment_mismatch",Yes,7,Review,70,Verified trip logs
+C5013,2025-10-23,R10013,D2342,411.87,Safety Concern,incomplete_verification,Yes,3,Safe,98,Driver contacted
+C5014,2025-09-02,R10014,D2484,260.43,Cancellation Issue,suspicious_pattern,Yes,5,Review,82,Escalated to TL
+C5015,2025-11-27,R10015,D2223,146.83,Safety Concern,suspicious_pattern,Yes,5,Review,13,Escalated to TL
+C5016,2025-09-30,R10016,D2224,203.65,Fraud,high_value_trip,No,5,Review,105,Pending additional docs
+C5017,2025-10-08,R10017,D2384,539.99,Incorrect Route,payment_mismatch,Yes,6,Review,23,Identity mismatch found
+C5018,2025-09-02,R10018,D2402,269.88,Safety Concern,suspicious_pattern,Yes,5,Review,83,Verified trip logs
+C5019,2025-11-03,R10019,D2125,537.66,Fraud,no_flag,Yes,2,Safe,109,Pending additional docs
+C5020,2025-10-30,R10020,D2129,290.38,Payment Failure,"no_flag, suspicious_pattern",Yes,5,Review,75,Escalated to TL
+C5021,2025-09-21,R10021,D2052,485.83,Safety Concern,suspicious_pattern,Yes,5,Review,1,Pending additional docs
+C5022,2025-10-03,R10022,D2171,305.96,Cancellation Issue,"payment_mismatch, multiple_complaints",Yes,7,Review,88,Customer provided receipt
+C5023,2025-11-15,R10023,D2217,147.34,Payment Failure,"high_value_trip, incomplete_verification",Yes,5,Review,54,Escalated to TL
+C5024,2025-10-28,R10024,D2159,275.87,Incorrect Route,no_flag,No,3,Safe,71,Closed after verification
+C5025,2025-09-22,R10025,D2197,554.2,Fare Dispute,"incomplete_verification, high_value_trip",Yes,6,Review,89,Identity mismatch found
+C5026,2025-11-28,R10026,D2415,664.1,Incorrect Route,no_flag,Yes,2,Safe,85,Insufficient evidence
+C5027,2025-10-19,R10027,D2246,353.02,Fraud,"suspicious_pattern, payment_mismatch",Yes,9,Flagged - Escalate,15,Verified trip logs
+C5028,2025-10-29,R10028,D2323,403.04,Safety Concern,multiple_complaints,Yes,3,Safe,65,Refund initiated
+C5029,2025-10-12,R10029,D2438,577.72,Fraud,"payment_mismatch, high_value_trip",Yes,6,Review,76,Customer provided receipt
+C5030,2025-10-30,R10030,D2202,485.2,Incorrect Route,"no_flag, suspicious_pattern",Yes,5,Review,71,Payment gateway logs checked
+C5031,2025-11-19,R10031,D2183,34.72,Fraud,high_value_trip,Yes,2,Safe,15,Insufficient evidence
+C5032,2025-09-15,R10032,D2122,507.1,Safety Concern,"suspicious_pattern, payment_mismatch",No,14,Flagged - Escalate,21,Refund initiated
+C5033,2025-11-01,R10033,D2400,490.42,Cancellation Issue,multiple_complaints,Yes,3,Safe,19,Escalated to TL
+C5034,2025-11-01,R10034,D2254,802.4,Fare Dispute,"incomplete_verification, payment_mismatch",Yes,9,Flagged - Escalate,60,Payment gateway logs checked
+C5035,2025-10-17,R10035,D2293,214.6,Fare Dispute,"no_flag, high_value_trip",No,5,Review,93,Driver contacted
+C5036,2025-11-01,R10036,D2279,382.96,Fare Dispute,suspicious_pattern,Yes,5,Review,89,Driver contacted
+C5037,2025-10-21,R10037,D2324,503.42,Fare Dispute,"payment_mismatch, no_flag",Yes,6,Review,33,Customer provided receipt
+C5038,2025-10-25,R10038,D2371,650.96,Fare Dispute,"multiple_complaints, incomplete_verification",Yes,8,Flagged - Escalate,49,Driver contacted
+C5039,2025-11-03,R10039,D2097,410.54,Fare Dispute,"incomplete_verification, payment_mismatch",Yes,7,Review,96,Payment gateway logs checked
+C5040,2025-09-03,R10040,D2197,469.69,Cancellation Issue,suspicious_pattern,Yes,6,Review,113,Payment gateway logs checked
+C5041,2025-10-21,R10041,D2469,1242.72,Fare Dispute,payment_mismatch,No,9,Flagged - Escalate,35,Identity mismatch found
+C5042,2025-09-07,R10042,D2394,501.19,Safety Concern,"high_value_trip, multiple_complaints",Yes,5,Review,44,Insufficient evidence
+C5043,2025-09-21,R10043,D2239,546.8,Payment Failure,no_flag,Yes,2,Safe,102,Verified trip logs
+C5044,2025-11-12,R10044,D2143,134.6,Fraud,"payment_mismatch, no_flag",Yes,4,Safe,90,Closed after verification
+C5045,2025-10-09,R10045,D2096,70.92,Cancellation Issue,"high_value_trip, suspicious_pattern",Yes,7,Review,11,Pending additional docs
+C5046,2025-09-18,R10046,D2200,264.27,Fare Dispute,high_value_trip,Yes,2,Safe,99,Driver contacted
+C5047,2025-09-04,R10047,D2123,333.04,Fare Dispute,"suspicious_pattern, incomplete_verification",Yes,8,Flagged - Escalate,72,Customer provided receipt
+C5048,2025-11-28,R10048,D2186,271.1,Fare Dispute,"incomplete_verification, high_value_trip",No,5,Review,110,Driver contacted
+C5049,2025-10-30,R10049,D2325,687.9,Fare Dispute,multiple_complaints,Yes,5,Review,78,Pending additional docs
+C5050,2025-09-14,R10050,D2463,385.37,Safety Concern,no_flag,Yes,0,Safe,74,Insufficient evidence
+C5051,2025-09-09,R10051,D2348,839.93,Fare Dispute,"high_value_trip, suspicious_pattern",Yes,7,Review,66,Identity mismatch found
+C5052,2025-11-29,R10052,D2258,221.23,Fare Dispute,"suspicious_pattern, high_value_trip",Yes,8,Flagged - Escalate,46,Payment gateway logs checked
+C5053,2025-10-23,R10053,D2147,762.06,Fare Dispute,"suspicious_pattern, high_value_trip",Yes,7,Review,9,Identity mismatch found
+C5054,2025-09-02,R10054,D2251,275.23,Fraud,multiple_complaints,Yes,3,Safe,3,Escalated to TL
+C5055,2025-11-23,R10055,D2442,327.99,Fare Dispute,suspicious_pattern,Yes,6,Review,85,Driver contacted
+C5056,2025-10-30,R10056,D2419,511.47,Safety Concern,multiple_complaints,Yes,5,Review,26,Verified trip logs
+C5057,2025-11-10,R10057,D2402,277.78,Fraud,"incomplete_verification, multiple_complaints",Yes,6,Review,72,Escalated to TL
+C5058,2025-10-14,R10058,D2345,211.48,Cancellation Issue,no_flag,No,3,Safe,48,Insufficient evidence
+C5059,2025-09-08,R10059,D2450,944.25,Fare Dispute,payment_mismatch,No,10,Flagged - Escalate,66,Driver contacted
+C5060,2025-10-17,R10060,D2146,416.77,Payment Failure,multiple_complaints,Yes,3,Safe,70,Escalated to TL
+C5061,2025-10-05,R10061,D2147,47.39,Cancellation Issue,"high_value_trip, payment_mismatch",Yes,6,Review,28,Driver contacted
+C5062,2025-11-17,R10062,D2351,561.77,Fare Dispute,"payment_mismatch, multiple_complaints",Yes,9,Flagged - Escalate,117,Customer provided receipt
+C5063,2025-11-20,R10063,D2198,534.66,Payment Failure,"suspicious_pattern, multiple_complaints",No,14,Flagged - Escalate,93,Insufficient evidence
+C5064,2025-10-06,R10064,D2307,338.55,Incorrect Route,"high_value_trip, no_flag",No,5,Review,26,Closed after verification
+C5065,2025-10-20,R10065,D2488,309.77,Fare Dispute,suspicious_pattern,Yes,5,Review,25,Payment gateway logs checked
+C5066,2025-09-04,R10066,D2416,364.75,Safety Concern,"suspicious_pattern, no_flag",No,8,Flagged - Escalate,12,Refund initiated
+C5067,2025-09-02,R10067,D2423,49.87,Payment Failure,"multiple_complaints, incomplete_verification",Yes,6,Review,5,Payment gateway logs checked
+C5068,2025-09-06,R10068,D2127,273.83,Payment Failure,"payment_mismatch, multiple_complaints",Yes,7,Review,98,Payment gateway logs checked
+C5069,2025-10-24,R10069,D2038,667.27,Fare Dispute,suspicious_pattern,Yes,8,Flagged - Escalate,48,Escalated to TL
+C5070,2025-09-04,R10070,D2337,31.99,Fare Dispute,payment_mismatch,Yes,4,Safe,37,Insufficient evidence
+C5071,2025-10-24,R10071,D2359,885.52,Safety Concern,high_value_trip,Yes,2,Safe,79,Driver contacted
+C5072,2025-11-02,R10072,D2128,189.81,Fraud,no_flag,No,3,Safe,44,Identity mismatch found
+C5073,2025-09-18,R10073,D2266,447.83,Cancellation Issue,suspicious_pattern,No,9,Flagged - Escalate,100,Refund initiated
+C5074,2025-11-29,R10074,D2475,297.72,Safety Concern,"no_flag, suspicious_pattern",Yes,5,Review,15,Pending additional docs
+C5075,2025-10-14,R10075,D2440,203.39,Fraud,"suspicious_pattern, no_flag",Yes,5,Review,43,Escalated to TL
+C5076,2025-10-04,R10076,D2472,1035.49,Payment Failure,multiple_complaints,Yes,6,Review,48,Refund initiated
+C5077,2025-11-13,R10077,D2433,663.37,Fare Dispute,incomplete_verification,Yes,6,Review,87,Closed after verification
+C5078,2025-11-01,R10078,D2150,623.42,Safety Concern,high_value_trip,Yes,3,Safe,70,Customer provided receipt
+C5079,2025-09-14,R10079,D2414,245.07,Payment Failure,multiple_complaints,Yes,4,Safe,46,Insufficient evidence
+C5080,2025-10-18,R10080,D2477,463.42,Payment Failure,high_value_trip,No,5,Review,114,Pending additional docs
+C5081,2025-09-15,R10081,D2297,504.9,Fraud,high_value_trip,Yes,2,Safe,108,Escalated to TL
+C5082,2025-11-11,R10082,D2098,300.78,Cancellation Issue,"multiple_complaints, incomplete_verification",Yes,6,Review,43,Payment gateway logs checked
+C5083,2025-11-17,R10083,D2262,641.96,Fare Dispute,"payment_mismatch, suspicious_pattern",Yes,12,Flagged - Escalate,109,Verified trip logs
+C5084,2025-11-26,R10084,D2251,411.55,Fraud,"multiple_complaints, suspicious_pattern",Yes,8,Flagged - Escalate,21,Escalated to TL
+C5085,2025-11-01,R10085,D2143,504.6,Cancellation Issue,high_value_trip,Yes,2,Safe,23,Verified trip logs
+C5086,2025-10-10,R10086,D2345,510.67,Fare Dispute,"incomplete_verification, payment_mismatch",Yes,9,Flagged - Escalate,107,Payment gateway logs checked
+C5087,2025-11-24,R10087,D2111,194.26,Safety Concern,"high_value_trip, payment_mismatch",No,9,Flagged - Escalate,119,Customer provided receipt
+C5088,2025-11-19,R10088,D2499,411.78,Safety Concern,multiple_complaints,Yes,3,Safe,80,Insufficient evidence
+C5089,2025-11-21,R10089,D2059,101.62,Fare Dispute,"no_flag, high_value_trip",No,6,Review,47,Driver contacted
+C5090,2025-10-23,R10090,D2368,918.57,Safety Concern,"suspicious_pattern, payment_mismatch",No,15,Flagged - Escalate,117,Escalated to TL
+C5091,2025-09-24,R10091,D2001,405.55,Fare Dispute,suspicious_pattern,Yes,5,Review,15,Identity mismatch found
+C5092,2025-09-26,R10092,D2384,186.46,Safety Concern,"incomplete_verification, suspicious_pattern",No,8,Flagged - Escalate,25,Payment gateway logs checked
+C5093,2025-11-28,R10093,D2303,397.25,Fare Dispute,payment_mismatch,Yes,4,Safe,36,Escalated to TL
+C5094,2025-10-30,R10094,D2253,483.92,Payment Failure,"suspicious_pattern, no_flag",No,8,Flagged - Escalate,75,Closed after verification
+C5095,2025-10-11,R10095,D2139,290.02,Cancellation Issue,suspicious_pattern,Yes,6,Review,51,Customer provided receipt
+C5096,2025-09-29,R10096,D2452,459.98,Cancellation Issue,"no_flag, suspicious_pattern",No,8,Flagged - Escalate,15,Closed after verification
+C5097,2025-09-15,R10097,D2036,406.84,Payment Failure,suspicious_pattern,No,8,Flagged - Escalate,68,Refund initiated
+C5098,2025-10-15,R10098,D2159,56.85,Fraud,multiple_complaints,No,7,Review,21,Insufficient evidence
+C5099,2025-11-04,R10099,D2008,834.76,Fare Dispute,"no_flag, payment_mismatch",No,9,Flagged - Escalate,13,Refund initiated
+C5100,2025-11-28,R10100,D2232,811.51,Cancellation Issue,high_value_trip,Yes,2,Safe,86,Escalated to TL
+C5101,2025-11-10,R10101,D2098,120.46,Cancellation Issue,"payment_mismatch, incomplete_verification",Yes,7,Review,19,Pending additional docs
+C5102,2025-09-09,R10102,D2146,250.08,Payment Failure,"suspicious_pattern, payment_mismatch",Yes,9,Flagged - Escalate,34,Pending additional docs
+C5103,2025-11-27,R10103,D2303,752.92,Fraud,"no_flag, suspicious_pattern",Yes,7,Review,78,Insufficient evidence
+C5104,2025-09-01,R10104,D2207,569.05,Fare Dispute,multiple_complaints,Yes,5,Review,68,Identity mismatch found
+C5105,2025-09-08,R10105,D2130,621.04,Safety Concern,"multiple_complaints, no_flag",Yes,5,Review,112,Customer provided receipt
+C5106,2025-11-27,R10106,D2403,394.38,Safety Concern,"high_value_trip, payment_mismatch",No,10,Flagged - Escalate,117,Identity mismatch found
+C5107,2025-11-02,R10107,D2151,411.35,Cancellation Issue,high_value_trip,Yes,2,Safe,52,Customer provided receipt
+C5108,2025-09-11,R10108,D2053,1012.09,Cancellation Issue,"multiple_complaints, suspicious_pattern",No,13,Flagged - Escalate,110,Payment gateway logs checked
+C5109,2025-11-20,R10109,D2119,808.38,Safety Concern,"no_flag, incomplete_verification",Yes,5,Review,27,Escalated to TL
+C5110,2025-09-08,R10110,D2160,883.78,Incorrect Route,"payment_mismatch, incomplete_verification",No,9,Flagged - Escalate,29,Refund initiated
+C5111,2025-10-05,R10111,D2407,441.34,Cancellation Issue,"payment_mismatch, suspicious_pattern",No,12,Flagged - Escalate,111,Pending additional docs
+C5112,2025-10-05,R10112,D2115,581.84,Fare Dispute,multiple_complaints,Yes,5,Review,28,Closed after verification
+C5113,2025-10-03,R10113,D2074,658.12,Fare Dispute,"no_flag, suspicious_pattern",Yes,7,Review,35,Driver contacted
+C5114,2025-09-05,R10114,D2112,586.37,Fare Dispute,incomplete_verification,Yes,6,Review,8,Verified trip logs
+C5115,2025-10-11,R10115,D2455,92.51,Fare Dispute,"high_value_trip, multiple_complaints",Yes,5,Review,16,Driver contacted
+C5116,2025-09-28,R10116,D2419,387.42,Fare Dispute,high_value_trip,Yes,2,Safe,106,Refund initiated
+C5117,2025-09-07,R10117,D2421,615.67,Fare Dispute,suspicious_pattern,Yes,8,Flagged - Escalate,36,Refund initiated
+C5118,2025-11-12,R10118,D2103,605.67,Safety Concern,"no_flag, multiple_complaints",Yes,5,Review,30,Customer provided receipt
+C5119,2025-11-11,R10119,D2339,444.43,Fare Dispute,"high_value_trip, incomplete_verification",Yes,5,Review,18,Identity mismatch found
+C5120,2025-09-12,R10120,D2253,600.81,Payment Failure,"no_flag, high_value_trip",Yes,2,Safe,2,Driver contacted
+C5121,2025-10-04,R10121,D2226,321.31,Fare Dispute,"multiple_complaints, incomplete_verification",Yes,6,Review,49,Customer provided receipt
+C5122,2025-10-03,R10122,D2111,280.03,Cancellation Issue,high_value_trip,Yes,2,Safe,77,Customer provided receipt
+C5123,2025-10-18,R10123,D2472,370.31,Fraud,"multiple_complaints, incomplete_verification",No,6,Review,4,Identity mismatch found
+C5124,2025-09-23,R10124,D2098,522.72,Incorrect Route,"payment_mismatch, multiple_complaints",Yes,9,Flagged - Escalate,90,Closed after verification
+C5125,2025-11-01,R10125,D2152,476.95,Fare Dispute,"payment_mismatch, no_flag",No,7,Review,89,Pending additional docs
+C5126,2025-11-27,R10126,D2348,221.6,Safety Concern,suspicious_pattern,Yes,5,Review,94,Insufficient evidence
+C5127,2025-10-07,R10127,D2401,413.06,Incorrect Route,"incomplete_verification, high_value_trip",Yes,5,Review,75,Pending additional docs
+C5128,2025-10-14,R10128,D2383,518.26,Payment Failure,suspicious_pattern,Yes,7,Review,7,Verified trip logs
+C5129,2025-11-25,R10129,D2365,358.36,Payment Failure,"incomplete_verification, multiple_complaints",Yes,6,Review,95,Driver contacted
+C5130,2025-10-05,R10130,D2337,498.9,Safety Concern,payment_mismatch,Yes,4,Safe,108,Pending additional docs
+C5131,2025-11-04,R10131,D2193,467.29,Fare Dispute,no_flag,Yes,1,Safe,74,Insufficient evidence
+C5132,2025-10-17,R10132,D2309,84.41,Cancellation Issue,suspicious_pattern,Yes,5,Review,39,Payment gateway logs checked
+C5133,2025-11-17,R10133,D2162,275.05,Incorrect Route,"suspicious_pattern, incomplete_verification",Yes,8,Flagged - Escalate,13,Driver contacted
+C5134,2025-09-03,R10134,D2207,544.11,Cancellation Issue,no_flag,Yes,2,Safe,31,Insufficient evidence
+C5135,2025-09-01,R10135,D2444,478.65,Cancellation Issue,"incomplete_verification, no_flag",Yes,3,Safe,71,Customer provided receipt
+C5136,2025-09-05,R10136,D2168,635.81,Safety Concern,multiple_complaints,Yes,6,Review,63,Refund initiated
+C5137,2025-11-29,R10137,D2483,172.99,Payment Failure,no_flag,No,4,Safe,56,Closed after verification
+C5138,2025-09-14,R10138,D2160,351.24,Fare Dispute,"incomplete_verification, multiple_complaints",Yes,6,Review,113,Verified trip logs
+C5139,2025-09-27,R10139,D2067,943.8,Safety Concern,high_value_trip,Yes,2,Safe,42,Insufficient evidence
+C5140,2025-09-09,R10140,D2288,354.8,Fraud,"no_flag, incomplete_verification",No,3,Safe,61,Pending additional docs
+C5141,2025-11-18,R10141,D2397,396.15,Fraud,multiple_complaints,Yes,4,Safe,42,Refund initiated
+C5142,2025-09-15,R10142,D2276,528.11,Fare Dispute,no_flag,Yes,2,Safe,56,Pending additional docs
+C5143,2025-11-29,R10143,D2303,472.57,Fare Dispute,"payment_mismatch, incomplete_verification",No,7,Review,36,Driver contacted
+C5144,2025-10-12,R10144,D2403,345.09,Cancellation Issue,"incomplete_verification, payment_mismatch",Yes,7,Review,84,Insufficient evidence
+C5145,2025-11-16,R10145,D2383,263.32,Safety Concern,high_value_trip,Yes,2,Safe,68,Pending additional docs
+C5146,2025-10-21,R10146,D2391,418.54,Cancellation Issue,"high_value_trip, payment_mismatch",Yes,6,Review,118,Identity mismatch found
+C5147,2025-11-02,R10147,D2134,507.76,Fare Dispute,"high_value_trip, incomplete_verification",Yes,5,Review,7,Escalated to TL
+C5148,2025-10-22,R10148,D2194,705.66,Fraud,suspicious_pattern,Yes,7,Review,54,Refund initiated
+C5149,2025-09-04,R10149,D2400,361.05,Cancellation Issue,"multiple_complaints, suspicious_pattern",Yes,8,Flagged - Escalate,1,Payment gateway logs checked
+C5150,2025-09-23,R10150,D2127,534.52,Fare Dispute,"multiple_complaints, suspicious_pattern",Yes,10,Flagged - Escalate,44,Refund initiated
+C5151,2025-09-15,R10151,D2032,663.79,Safety Concern,payment_mismatch,Yes,6,Review,45,Pending additional docs
+C5152,2025-10-13,R10152,D2175,386.34,Fare Dispute,suspicious_pattern,No,8,Flagged - Escalate,106,Pending additional docs
+C5153,2025-09-29,R10153,D2459,178.42,Fare Dispute,no_flag,No,3,Safe,47,Verified trip logs
+C5154,2025-10-06,R10154,D2442,212.88,Incorrect Route,"payment_mismatch, multiple_complaints",Yes,7,Review,13,Identity mismatch found
+C5155,2025-09-13,R10155,D2370,556.85,Safety Concern,"high_value_trip, multiple_complaints",Yes,5,Review,119,Payment gateway logs checked
+C5156,2025-10-02,R10156,D2469,561.26,Payment Failure,high_value_trip,Yes,2,Safe,22,Closed after verification
+C5157,2025-11-10,R10157,D2374,428.73,Safety Concern,"payment_mismatch, incomplete_verification",Yes,7,Review,118,Verified trip logs
+C5158,2025-10-29,R10158,D2021,95.66,Cancellation Issue,multiple_complaints,Yes,3,Safe,21,Driver contacted
+C5159,2025-11-25,R10159,D2237,516.07,Payment Failure,"payment_mismatch, suspicious_pattern",Yes,11,Flagged - Escalate,86,Payment gateway logs checked
+C5160,2025-09-28,R10160,D2157,494.99,Cancellation Issue,"multiple_complaints, no_flag",No,7,Review,92,Insufficient evidence
+C5161,2025-11-05,R10161,D2037,852.61,Fraud,payment_mismatch,Yes,6,Review,9,Escalated to TL
+C5162,2025-10-12,R10162,D2229,745.65,Fraud,incomplete_verification,Yes,6,Review,26,Verified trip logs
+C5163,2025-10-15,R10163,D2364,239.67,Safety Concern,suspicious_pattern,Yes,5,Review,9,Escalated to TL
+C5164,2025-11-01,R10164,D2050,1005.39,Incorrect Route,high_value_trip,Yes,2,Safe,15,Identity mismatch found
+C5165,2025-10-27,R10165,D2437,503.88,Payment Failure,"high_value_trip, multiple_complaints",No,8,Flagged - Escalate,10,Driver contacted
+C5166,2025-09-06,R10166,D2263,587.76,Incorrect Route,high_value_trip,Yes,2,Safe,88,Driver contacted
+C5167,2025-09-28,R10167,D2282,177.86,Fare Dispute,"multiple_complaints, no_flag",Yes,3,Safe,42,Closed after verification
+C5168,2025-09-28,R10168,D2026,89.39,Payment Failure,"multiple_complaints, suspicious_pattern",Yes,8,Flagged - Escalate,72,Driver contacted
+C5169,2025-10-14,R10169,D2225,203.24,Incorrect Route,no_flag,Yes,0,Safe,24,Pending additional docs
+C5170,2025-11-23,R10170,D2276,405.48,Fare Dispute,incomplete_verification,Yes,3,Safe,80,Refund initiated
+C5171,2025-09-30,R10171,D2285,638.35,Fare Dispute,"incomplete_verification, no_flag",Yes,5,Review,49,Refund initiated
+C5172,2025-11-01,R10172,D2096,149.84,Payment Failure,"no_flag, high_value_trip",Yes,2,Safe,26,Closed after verification
+C5173,2025-11-14,R10173,D2283,748.48,Cancellation Issue,high_value_trip,Yes,2,Safe,91,Pending additional docs
+C5174,2025-11-28,R10174,D2366,408.01,Payment Failure,"incomplete_verification, payment_mismatch",Yes,7,Review,37,Refund initiated
+C5175,2025-11-01,R10175,D2447,121.09,Fare Dispute,"payment_mismatch, suspicious_pattern",Yes,9,Flagged - Escalate,68,Insufficient evidence
+C5176,2025-09-01,R10176,D2480,1010.52,Payment Failure,"payment_mismatch, incomplete_verification",Yes,9,Flagged - Escalate,50,Pending additional docs
+C5177,2025-09-27,R10177,D2452,1116.85,Fare Dispute,multiple_complaints,Yes,5,Review,24,Identity mismatch found
+C5178,2025-11-01,R10178,D2316,1120.88,Fare Dispute,"high_value_trip, multiple_complaints",Yes,5,Review,19,Customer provided receipt
+C5179,2025-11-16,R10179,D2303,81.5,Fare Dispute,multiple_complaints,No,7,Review,100,Escalated to TL
+C5180,2025-09-03,R10180,D2146,459.15,Payment Failure,payment_mismatch,No,8,Flagged - Escalate,60,Pending additional docs
+C5181,2025-11-09,R10181,D2003,381.89,Cancellation Issue,payment_mismatch,No,7,Review,39,Escalated to TL
+C5182,2025-11-11,R10182,D2034,523.72,Cancellation Issue,"multiple_complaints, payment_mismatch",Yes,9,Flagged - Escalate,74,Insufficient evidence
+C5183,2025-09-27,R10183,D2191,1157.52,Safety Concern,"multiple_complaints, no_flag",Yes,5,Review,89,Customer provided receipt
+C5184,2025-09-09,R10184,D2048,700.97,Payment Failure,"high_value_trip, no_flag",Yes,2,Safe,18,Payment gateway logs checked
+C5185,2025-11-01,R10185,D2016,750.76,Safety Concern,payment_mismatch,Yes,6,Review,19,Closed after verification
+C5186,2025-10-07,R10186,D2171,710.28,Payment Failure,no_flag,No,5,Review,36,Pending additional docs
+C5187,2025-10-21,R10187,D2219,417.63,Fraud,multiple_complaints,Yes,4,Safe,74,Closed after verification
+C5188,2025-10-14,R10188,D2157,478.06,Safety Concern,no_flag,Yes,0,Safe,97,Driver contacted
+C5189,2025-09-24,R10189,D2476,164.35,Fraud,"multiple_complaints, suspicious_pattern",Yes,8,Flagged - Escalate,55,Escalated to TL
+C5190,2025-11-18,R10190,D2045,192.05,Safety Concern,multiple_complaints,Yes,3,Safe,114,Escalated to TL
+C5191,2025-10-29,R10191,D2372,502.93,Payment Failure,"suspicious_pattern, no_flag",Yes,7,Review,69,Driver contacted
+C5192,2025-10-02,R10192,D2005,204.71,Fraud,suspicious_pattern,Yes,5,Review,47,Payment gateway logs checked
+C5193,2025-11-27,R10193,D2098,413.03,Fare Dispute,"no_flag, suspicious_pattern",Yes,5,Review,49,Verified trip logs
+C5194,2025-10-22,R10194,D2379,234.11,Payment Failure,"incomplete_verification, suspicious_pattern",Yes,8,Flagged - Escalate,99,Identity mismatch found
+C5195,2025-11-01,R10195,D2232,631.12,Safety Concern,incomplete_verification,Yes,5,Review,108,Pending additional docs
+C5196,2025-10-28,R10196,D2036,534.76,Cancellation Issue,"incomplete_verification, payment_mismatch",No,10,Flagged - Escalate,98,Escalated to TL
+C5197,2025-10-22,R10197,D2279,702.65,Incorrect Route,"suspicious_pattern, high_value_trip",No,10,Flagged - Escalate,33,Identity mismatch found
+C5198,2025-09-12,R10198,D2348,452.02,Cancellation Issue,"high_value_trip, multiple_complaints",No,8,Flagged - Escalate,119,Escalated to TL
+C5199,2025-10-09,R10199,D2496,801.53,Fare Dispute,payment_mismatch,No,9,Flagged - Escalate,21,Verified trip logs
